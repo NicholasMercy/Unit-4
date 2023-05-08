@@ -14,7 +14,7 @@ GameObject:
   - component: {fileID: 6152287090252996157}
   - component: {fileID: 8210997528264968604}
   m_Layer: 0
-  m_Name: Powerup
+  m_Name: PowerupSmash
   m_TagString: Powerup
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -63,7 +63,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: 41680dad0f0243748b4e228f49a2e3c4, type: 2}
+  - {fileID: 2100000, guid: 2ced959ef2004c248ad57c075ff29faa, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -110,4 +110,4 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 73b6f7b085f65bf4aadfd46b0f9bb470, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  powerUpType: 1
+  powerUpType: 3
